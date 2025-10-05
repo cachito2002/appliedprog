@@ -1,0 +1,14 @@
+/Users/fernandoferraez/Desktop/appliedprog/bin/Debug/net8.0/appliedprog
+/Users/fernandoferraez/Desktop/appliedprog/bin/Debug/net8.0/appliedprog.deps.json
+/Users/fernandoferraez/Desktop/appliedprog/bin/Debug/net8.0/appliedprog.runtimeconfig.json
+/Users/fernandoferraez/Desktop/appliedprog/bin/Debug/net8.0/appliedprog.dll
+/Users/fernandoferraez/Desktop/appliedprog/bin/Debug/net8.0/appliedprog.pdb
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.AssemblyInfoInputs.cache
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.AssemblyInfo.cs
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.csproj.CoreCompileInputs.cache
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.dll
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/refint/appliedprog.dll
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.pdb
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.genruntimeconfig.cache
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/ref/appliedprog.dll
