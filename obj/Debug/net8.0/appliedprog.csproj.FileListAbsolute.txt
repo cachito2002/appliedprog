@@ -12,3 +12,4 @@
 /Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.pdb
 /Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.genruntimeconfig.cache
 /Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/ref/appliedprog.dll
+/Users/fernandoferraez/Desktop/appliedprog/obj/Debug/net8.0/appliedprog.sourcelink.json

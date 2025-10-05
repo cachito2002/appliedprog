@@ -15,7 +15,7 @@ namespace AdventureGame
             this.winCondition = winCondition;
         }
 
-        // Main game loop
+        // Main game loop for the video game
         public void Run()
         {
             Console.WriteLine("Game started! Type 'help' for commands.\n");
