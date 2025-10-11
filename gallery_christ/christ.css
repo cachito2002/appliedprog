@@ -1,0 +1,25 @@
+#hero_image {
+    text-align: center;
+    margin-bottom: 30px;
+}
+#hero_image img {
+    width: 50%;
+    height: auto;
+    border: 20px solid sandybrown
+}
+#hero_image h1 {
+    font-size: 3em;
+    margin-top: 20px;
+    color: #333;
+}
+#hero_image p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.gallerycontainer img {
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+}
