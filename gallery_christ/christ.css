@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Imperial+Script&family=Mea+Culpa&family=Petit+Formal+Script&family=Quicksand:wght@300..700&family=Sree+Krushnadevaraya&display=swap');
-:root
+:root {
+    --title_font: 'Petit Formal Script', serif;
+    --body_font: 'Quicksand', sans-serif;
+
+}
+
 #hero_image {
     text-align: center;
     margin-bottom: 30px;
@@ -13,11 +18,14 @@
     font-size: 3em;
     margin-top: 20px;
     color: #333;
+    font-family: var(--title_font);
 }
 #hero_image p {
     font-size: 1.2em;
     color: #666;
     margin-bottom: 20px;
+    font-family: var(--body_font);
+
 }
 
 .gallerycontainer img {
