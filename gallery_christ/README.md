@@ -11,7 +11,7 @@ It contains the following languages used in order to make it work.
 
 These were the languages that were used in order to make the following project:
 
-## Christ art Gallery!!
+## Christ art Gallery!
 
 This gallery, using very simple HTML, CSS and more complex Javascript made possible a gallery that was Christ centered. The photos that were provided are ones that I love and adore, but they were used to demonstrate the power and capabilities of what Javascript can do.
 
@@ -29,7 +29,7 @@ The following tools where used but are not limited to:
 
 If you would like to see the demonstration of this code; it is provided below:
 
-* 
+* [Jesus is Art - Gallery Project](https://youtu.be/nhoT6IelliA)
 
 
 ## Helpful links
