@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="christ.css">
+    <script src="gallery.js" defer></script>
     <title>Christ Gallery</title>
+
 </head>
 <body>
      <header>
@@ -20,16 +22,22 @@
     <main>
         <h1 class="gallery-title">Gallery</h1>
         <div class="gallerycontainer"> 
-            <img src="images/christ_stretching_his_hand.jpg" alt="Christ is stretching_his_hand">
-            <img src="images/christ_sheep.jpg" alt="Christ holding a sheep">
-            <img src="images/joyful_christ.webp" alt="Christ with a Yellowish background">
-            <img src="images/walking_on_water.jpg" alt="Christ walking on water">
-            <img src="images/smiling_christ.jpg" alt="Christ smiling">
-            <img src="images/shepard_christ.webp" alt="Christ is the Shepard">
+            <img src="images/christ_stretching_his_hand.jpg" alt="Christ is stretching_his_hand" data-details="This is a painting of Christ stretching his hand, in a symbol of reaching to the Father"> 
+            <img src="images/christ_sheep.jpg" alt="Christ holding a sheep" data-details="This is a painting of Christ holding a sheep, symbolizing his role as the greatest and most caring shepard to ever live">
+            <img src="images/joyful_christ.webp" alt="Christ with a Yellowish background" data-details="This is a painting of Christ looking into the eyes of the viewer, to symbolize that he is always there for us">
+            <img src="images/walking_on_water.jpg" alt="Christ walking on water" data-details="This is a painting of Christ walking on water, which shows us that he will travel whatever distance to get to us, and that we can walk on water as well">
+            <img src="images/smiling_christ.jpg" alt="Christ smiling" data-details="This is a painting of Christ smiling warmly, testifying of his love and care for us all">
+            <img src="images/shepard_christ.webp" alt="Christ is the Shepard" data-details="This is a painting of Christ as the Shepherd, the one and only shepard. The shepard that was willing to die for us.">
        </div>
     </main>
+
+    <div id="christImage" class="hisModel">
+        <span class="close">&times;</span>
+        <img class="christ-content" id="modalImage" src="">
+        <div id="caption" class="caption"></div>
+    </div>
 
     
 </body>
 </html>
-grid-template-columns: 1fr 1fr 1fr;
+
