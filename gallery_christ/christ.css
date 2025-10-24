@@ -12,6 +12,7 @@ body {
 header {
     display: flex;
     justify-content: center;
+    height: 50px;
     background-color: sandybrown;
     text-align: center;
 }
@@ -21,7 +22,8 @@ header {
     gap: 30px;
     margin: 0;
     padding: 0;
-   
+    padding-top: 12px;
+
 }
 #hero_image {
     text-align: center;
