@@ -1,12 +1,30 @@
 ﻿name,age,eye_color,weight_lbs,country,gender
-Marcos,22,brown,220,Mexico,Male
-Samuel,24,red,175,Honduras,Male
-Jeremiah,23,blue,170,Israel,Male
-Josuah,21,brown,160,Israel,Male
+Marcos,22,brown,220,mexico,Male
+Samuel,24,red,175,Honduras,male
+Jeremiah,23,blue,170,,Male
+Josuah,,brown,160,Israel,male
 Isaiah,22,green,195,China,Male
-Jacob,24,brown,170,Canada,Male
-Miguel,25,blue,200,Colombia,Male
-Sofia,20,green,115,Republica D,Female
-Cristofer,19,light brown,155,Mexico,Male
+Jacob,24,,170,Canada,Male
+Miguel,25,BLUE,200,Colombia,Male
+Sofia,20,green,115,Republica D,F
+Cristofer,19,light brown,155,Mexico,m
 Tim,18,light blue,145,Chile,Male
-Johnny,18,yellow,135,Costa Rica,Male
+Johnny,18,yellow,135,Costa Rica,male
+Tom, ,black,180,USA,m
+Linda,26,brown,,United States,Female
+Chris,23,PINK,,UK,Male
+Anna,,,155,United Kingdom,M
+Luna,21,BLUE,,,Female
+Thomas,,,150,USA,M
+Eva,22,green,120,Spain,F
+Liam,24,brown,,,Male
+Olivia,23,blue,130,Australia,female
+Tamika,23,BROWN,140,South Africa,F
+
+
+
+
+
+
+
+
