@@ -19,6 +19,14 @@ mutate(
 # print(data$friends_gender) 
 
 #-------CODE FOR PEOPLE WITH OUT GENDERS--------
+data <- data %>%
+    mutate(
+        friends_gender = case_when(
+            friends_gender != "MALE" & friends_gender != "FEMALE" ~ "DIDN'T SHARE",
+            TRUE ~ friends_gender
+        )
+)
+print(data)
 
 
 
