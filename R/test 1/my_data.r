@@ -6,7 +6,7 @@ library(tidyverse)
 
 data <- read.csv("friends.csv")
 #------THIS PART CLEANS UP GENDER COLUMNS TO BE MORE READABLE AND MORE MANAGEABLE------
-gender <- data %>%
+data <- data %>%
 mutate(
     friends_gender = str_to_upper(gender),
 
@@ -16,5 +16,14 @@ mutate(
         TRUE ~ friends_gender
     )
 )
-# print(gender$friends_gender)
+# print(data$friends_gender) 
+
+#-------CODE FOR PEOPLE WITH OUT GENDERS--------
+
+
+
+
+
+
+
 
