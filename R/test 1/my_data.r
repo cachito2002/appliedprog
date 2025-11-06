@@ -99,7 +99,7 @@ data <- data %>%
 #=============================================================================
 data %>%
     arrange(name) %>%
-    select(name, friends__kg_conversion,friends_gender, weight_category) %>%
+    select(name, friends_gender,friends__kg_conversion, weight_category) %>%
     print()
 #=============================================================================
 #THIS IS THE WHOLE PIECE OF CODE
